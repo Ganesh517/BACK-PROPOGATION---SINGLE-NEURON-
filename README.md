@@ -40,7 +40,7 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 ## PROGRAM:
 ```
 #Program to implement random classification.
-#Developed by   : GANESH ELURU
+#Developed by   : ELURU GANESH
 #Register Number :  212220230016
 ```
 ```python
@@ -65,8 +65,6 @@ print(a)
 print(" ")
 print(w)
 ```
-
-
 
 ## OUTPUT:
 
